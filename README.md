@@ -1,4 +1,4 @@
-# About Me?
+### About Me?
 🔭 Currently working on: Machine Learning for cache replacement and rebuilding my GitHub one commit at a time. <br>🤝 Looking to collaborate on: Open-source projects, systems programming, and machine learning.<br>🆘 Looking for help with: Low-level systems, computer architecture, and writing cleaner C/C++.<br>🌱 Currently learning: AMD architecture and diving deeper into how computers actually work.<br>💬 Ask me about: Linux, ML, cache replacement, or random CS rabbit holes.<br>⚡ Fun fact: I have an unhealthy habit of turning "quick side projects" into research projects<br>
 
 # 💻 Tech Stack:
