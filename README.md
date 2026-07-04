@@ -2,7 +2,7 @@
 🔭 Currently working on: Machine Learning for cache replacement and rebuilding my GitHub one commit at a time. <br>🤝 Looking to collaborate on: Open-source projects, systems programming, and machine learning.<br>🆘 Looking for help with: Low-level systems, computer architecture, and writing cleaner C/C++.<br>🌱 Currently learning: AMD architecture and diving deeper into how computers actually work.<br>💬 Ask me about: Linux, ML, cache replacement, or random CS rabbit holes.<br>⚡ Fun fact: I have an unhealthy habit of turning "quick side projects" into research projects<br>
 
 ### Tech Stack:
-#### ML:
+#### Machine Learning:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
