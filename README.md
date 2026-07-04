@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br>
-# 📊 GitHub Stats:
+### GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MalaikaFayyaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MalaikaFayyaz&theme=dark&hide_border=false)<br/>
 
