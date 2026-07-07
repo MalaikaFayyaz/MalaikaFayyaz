@@ -23,8 +23,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
-### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MalaikaFayyaz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&t=<timestamp>)<br/>
 
 
 **—** _aPalimpsestOxymoron_ 
