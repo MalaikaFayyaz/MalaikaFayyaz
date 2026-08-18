@@ -26,7 +26,5 @@ Currently working on: Machine Learning for cache replacement and rebuilding my G
 <br><br>
 <br><br>
 
-**—** _aPalimpsestOxymoron_ 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**—** _aPalimpsestOxymoron_ <br>
+&emsp;     𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼
