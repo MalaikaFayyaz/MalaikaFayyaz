@@ -1,6 +1,5 @@
-**𓆝 𓆟 𓆞 𓆝 𓆟**
 ### About Me?
-Currently working on: Machine Learning for cache replacement and rebuilding my GitHub one commit at a time. <br>🌱 Currently learning: AMD architecture and diving deeper into how computers actually work.<br>
+&emsp;**಄** Currently working on: Machine Learning for cache replacement and rebuilding my GitHub one commit at a time. <br>**𓂃✍︎** Currently learning: AMD architecture and diving deeper into how computers actually work.<br>
 
 ### Tech Stack:
 #### Machine Learning:
