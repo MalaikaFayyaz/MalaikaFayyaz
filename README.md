@@ -1,6 +1,6 @@
 ### About Me?
 &emsp;**಄** Currently working on: Machine Learning for cache replacement and rebuilding my GitHub one commit at a time. <br>**𓂃✍︎** Currently learning: AMD architecture and diving deeper into how computers actually work.<br>
-
+<!--
 ### Tech Stack:
 #### Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -22,6 +22,7 @@
 #### Development Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+-->
 <br><br>
 <br><br>
 
